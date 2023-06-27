@@ -1,34 +1,12 @@
-.cabecalho
-{
-    background-color: aqua
+.cabecalho {
+   background-color: aqua;
+   text-align: center;
+   block-size: auto;
 }
-h1 {
-    text-align: center;
-}
-h2 {
-    background-color: blueviolet;
-}
-h3{
-    padding-left: 10%;
-}
-.imagem{
-    width: 20px;
-    background-image: linear-gradient(#383d58);
-}
-p {
-    font-size: 20px
-}
-.paragrafo1 {
- font-size:30px;
- padding-top: 5%;
-}
-.paragrafos {
-    font-size: 16px;
+.menu_cabecalho {
+  block-size: auto;
 }
 .lista {
-    display: inline-block;
-    margin: 0 16px
-}
-footer{
-    background-color: black;
+ background-color: blue;
+ text-align: right;
 }
